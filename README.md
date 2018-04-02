@@ -1,5 +1,3 @@
-![Pelibooks](assets/images/pbooks.png)
-
 # Pelibooks
 
 - Es una plataforma web responsive que ayuda a los fanáticos de la lectura y del cine a encontrar películas (información detallada) basadas en novelas.
