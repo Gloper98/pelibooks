@@ -19,7 +19,7 @@ Es una plataforma web responsive que ayuda a los fanáticos de la lectura y del 
 
 ## PROCESO:
 
-# Planificación:
+### Planificación:
 
 * Usamos la herramienta 'Trello':
 
@@ -27,7 +27,7 @@ link : https://trello.com/b/jqDvmEmO/pelibooks-encuentra-tu-libro-favorito-hecho
 
 ***
 
-## Desarrollo de la idea
+### Desarrollo de la idea
 
 **MARTES: 16/01/2017**
 
