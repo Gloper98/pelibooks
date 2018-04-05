@@ -1,6 +1,7 @@
 # Pelibooks
 
 Es una plataforma web responsive que ayuda a los fanáticos de la lectura y del cine a encontrar películas (información detallada) basadas en novelas.
+
 ![image](https://user-images.githubusercontent.com/32302890/38159751-8b15c430-3474-11e8-8246-9fe6dd42c5db.png)
 
 ## Desarrollado para 
@@ -133,7 +134,7 @@ link : https://trello.com/b/jqDvmEmO/pelibooks-encuentra-tu-libro-favorito-hecho
 
 [Laboratoria LMS](https://laboratoria1.gitbooks.io/hackathon/content/)
 
-[Bootstrap](https://getbootstrap.com/docs/3.3/css/#forms)
+[Bootstrap](https://getbootstrap.com/docs/3.3/css)
 
 [W3School](https://www.w3schools.com/bootstrap/bootstrap_forms.asp)
 
